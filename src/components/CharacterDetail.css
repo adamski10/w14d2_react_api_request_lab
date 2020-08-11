@@ -1,0 +1,13 @@
+.character-detail {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  
+}
+
+img {
+  height: 300px;
+  /* max-width: 200px; */
+}
